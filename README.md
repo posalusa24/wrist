@@ -1,5 +1,7 @@
 # WRIST
 
+Wi-Fi RSSI-based Indoor Spatial Tracking (Client Android App and Server)
+
 ## How it works
 
 * Given that there is a Wi-Fi AP for each room in a building, we can determine which room a mobile client is in by checking which Wi-Fi AP is currently closest to it.
