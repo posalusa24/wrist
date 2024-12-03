@@ -2,6 +2,8 @@
 
 Wi-Fi RSSI-based Indoor Spatial Tracking (Client Android App and Server)
 
+Presentation: https://docs.google.com/presentation/d/1cEOPx2ekwIWLqIIvTPXMQkT57gC0DKxDI4PjYS2aXBQ/edit?usp=sharing
+
 ## How it works
 
 * Given that there is a Wi-Fi AP for each room in a building, we can determine which room a mobile client is in by checking which Wi-Fi AP is currently closest to it.
